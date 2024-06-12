@@ -1,9 +1,6 @@
 # Body Fat Percentage Prediction using Decision Tree Regression
 This project aims to predict the body fat percentage of a person using a decision tree regression model on Google Colaboratory. The dataset used for this project was obtained from Kaggle, and it contains information about the body fat percentage of a group of individuals along with their age, weight, height, and various body circumference measurements.
 
-# About me
-i am a computer science engineer specialized in data science and machine learning, I offer my services on 'Upwork' and 'Freelancer'. you can check out my profile [https://www.freelancer.com/u/jalilb9] [https://www.upwork.com/freelancers/~01c41cc0b08423ddb3]
-
 # Dataset
 The dataset used for this project can be found on Kaggle. The data was cleaned, preprocessed, and used for training and testing the model.
 
